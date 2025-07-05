@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Date Finder</string>
     <string name="detected_date">Detected Date:</string>
+    <string name="select_image">Select Image</string>
+    <string name="date_finder">Date Finder</string>
+    <string name="selected_image">Selected Image</string>
+    <string name="detected_date_will_appear_here">Detected Date will appear here</string>
 </resources>
