@@ -16,7 +16,12 @@ android {
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
-
+buildFeatures{
+    viewBinding = true
+}
+buildFeatures {
+    buildConfig = true
+}
     buildTypes {
         release {
             isMinifyEnabled = false
@@ -45,6 +50,7 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
-    implementation(libs.tesstwo)
+//    implementation("com.github.adaptech-cz:TessTwo:10.0.0")
+    implementation("com.rmtheis:tess-two:9.1.0")
 
 }
