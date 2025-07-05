@@ -139,10 +139,10 @@ DateFinder/
 
 ---
 
-# 📈 Possible Enhancements
+#Screenshots
+ <img src="https://github.com/user-attachments/assets/4c6333b0-42b7-4ef4-a214-cdcd41cd8003" alt="Splash Screen" width="300" height="600">
+ <img src="https://github.com/user-attachments/assets/7436efcc-847b-4412-945b-89345383e27e" alt="Splash Screen" width="300" height="600">
 
-- Use CameraX to capture image directly.  
-- Add language selector for multilingual OCR (e.g., Hindi).  
-- Add date format normalization (e.g., output as ISO format).  
-- Implement MVVM with ViewModel for better state handling.  
-- Add copy/share detected date buttons.
+#Demo Video
+
+https://github.com/user-attachments/assets/e0c98d08-cf21-49e5-a28b-bb6a2a3b24e1
