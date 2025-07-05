@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Date Finder</string>
+    <string name="detected_date">Detected Date:</string>
+</resources>
